@@ -1,0 +1,436 @@
+/// I-N-D-E-X-H-T-M-L ///
+-------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about me!</title>
+</head>
+<body>
+
+<table>
+
+<h1>
+
+About me...
+
+</h1>
+
+<tr>
+
+<td>
+
+<img src="images/IMG_5595.JPG">
+
+</td>
+
+</tr>
+
+</table>
+
+<h2>
+
+I'm currently 17 and was born in Amsterdam (AMC). 
+
+I'm currently following a software development degree program  at Media College in Amsterdam. 
+While taking this program i strive to develop my game development skills as well as myself.
+
+</h2>
+
+<figure>
+
+<h3>
+
+I have always been interested in making games eversince i saw a video about an indie game developer making a game from scratch.
+I've tried making some games, but i just couldn't figure out how everything worked. 
+That's why i came to Mediacollege, to further develop my skills in game development.
+I would also love to pair those skills with my music producing skills, which i'm also working on.
+Place
+Since my parents parted ways about two years after my birth, i have been living with my mother in Hoorn for the past 17 years.
+But since recently i moved into my father's house in Lelystad because of personal reasons.
+
+</h3>
+
+</figure>
+
+<figure>
+
+<h11>
+
+<p>
+
+In my spare time...
+I like to game a lot and produce music as well.
+I also skate at the local skatepark not as far from my house. 
+
+</p>
+
+</h11>
+
+<h13>
+
+Here's a song i recently made: 
+
+</h13>
+
+<p>
+
+<audio controls
+
+src="audio/Diamond L.mp3">
+   
+</audio>
+
+</p>
+
+</figure>
+
+<h6>
+
+My top 5 favorite games to play are:
+
+</h6>
+
+<h7>
+
+<p>
+
+- Planet Coaster
+
+</p>
+
+<p>
+
+- VRChat
+
+</p>
+
+<p>
+
+- Cyberpunk 2077
+
+</p>
+
+<p>
+
+- Gran Turismo 7
+
+</p>
+
+<p>
+
+- Roblox
+
+</p>
+
+</h7>
+
+<h10>
+
+<p>
+
+What i can already do
+As you might suspect i'm pretty familiar with English
+I think i'm good at producing music.
+I like solving problems, so i think i'm good at coming up with solutions as well.
+I am a very helpful person, because i like helping people. (At least that's what i think).
+
+</p>
+
+</h10>
+
+<h12>
+
+ These are my two dogs, they're both Chihuahuas.   
+
+</h12>
+
+
+<blockquote>
+
+<p>
+
+ <img src="images/IMG_3288.jpg">   
+
+</p>
+
+
+<figure>
+
+<h8>
+
+My Top 10!
+
+</h8>
+
+<h9>
+
+<p>
+- Nasi (Food)
+</p>
+
+<p>
+- Smiler (Favorite rollercoaster)
+</p>
+
+<p>
+- Fox (favorite animal)
+</p>
+
+<p>
+- Hoodie (Favorite attire)
+</p>
+
+<p>
+- Beastars (Favorite anime)
+</p>
+
+<p>
+- Phonk (Music genre)
+</p>
+
+<p>
+- Purple (Favorite color)
+</p>
+
+<p>
+- Youtube (I am not physically able to consume anything without).
+</p>
+
+<p>
+- Bitter lemon (Favorite drink)
+</p>
+
+<p>
+- Minecraft Creative mode (My favorite mode in the game)
+</p>
+
+</h9>
+
+</figure>
+
+<footer>
+
+Author:
+
+<p>
+
+D'onell Fränkel
+
+</p>
+
+<p>
+
+Klas SD1B
+
+</p>
+
+<table>
+<h4>
+Contacts:
+</h4>
+
+<p>
+
+<td>
+Phone number:
+
+<a 
+
+href="https://www.youtube.com/watch?v=nDAfnDnT2gA">+31 0613854674
+
+</a>
+
+</td>
+
+<tr>
+E-Mail: 
+
+<a 
+
+href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">donfrank2007@gmail.com
+
+</a>
+
+</tr>
+
+</p>
+
+</table>
+
+<h13>
+
+Link to the code of this website on my Github:
+
+</h13>
+
+<h14>
+
+<a
+
+href="https://github.com/F4RWAY28/html-code-Website-about-me.git">See code here!
+
+</a>
+
+</h14>
+
+</footer>
+
+    
+</body>
+</html>
+
+/// S-T-Y-L-E-C-S-S ///
+-----------------------
+
+body{
+
+margin: 50px 250px 50px 250px;
+}
+h1{
+text-align:220px;
+font-style:unset;
+font-size:xx-large;
+}
+
+h1{
+
+
+
+}
+
+h1{
+    
+
+    
+}
+
+h2{
+
+font-style:italic;
+
+}
+
+h3{
+font-size:larger;
+font-style:initial;
+
+}
+
+h3{
+
+
+
+}
+
+table{
+
+font-size:larger;
+font-style:normal;
+}
+
+
+
+h4{
+
+font-size:xx-large;
+}
+
+figure{
+
+text-decoration-color:crimson;
+
+}
+
+dark-mode{
+
+background-color:black;
+color:white;
+
+}
+
+profiel{
+
+border-radius: 5px;
+
+}
+
+h6{
+
+font-size:xx-large;
+
+}
+
+h7{
+
+font-size:x-large;
+
+}
+
+h8{
+
+font-size:xx-large;
+font-style:inherit;
+
+}
+
+h9{
+
+font-size:x-large;
+font-style:inherit;
+
+}
+
+h10{
+
+font-size:larger;
+
+}
+
+h11{
+
+font-size:larger;
+
+}
+
+img{
+
+    border-radius: 105px;
+    width: 500px;
+    height: 600px;
+
+}
+
+h12{
+
+font-size:x-large;
+font-style:oblique;
+
+}
+
+h13{
+
+font-size:larger;
+font-style:inherit;
+
+
+}
+
+h13{
+
+font-size:x-large;
+
+}
+
+h14{
+
+font-size:medium;
+
+}
+
+-------------
+/// E-N-D ///
+

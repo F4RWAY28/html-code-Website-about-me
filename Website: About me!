@@ -10,9 +10,10 @@
     <title>about me!</title>
 </head>
 <body>
+    <head>
+<article>
 
 <table>
-
 <h1>
 
 About me...
@@ -279,8 +280,24 @@ href="https://github.com/F4RWAY28/html-code-Website-about-me.git">See code here!
 
 </footer>
 
-    
+<blockquote>
+</blockquote>
+
+<h15>
+
+Man recorded himself committing a crime:
+
+</h15>
+
+<blockquote>
+</blockquote>
+
+<video controls poster="images/Police.jpg" src="videos/v09044g40000crmhhuvog65upaib6k5g.mp4" type="video/mp4"></video>
+
+</article>
+</header>
 </body>
+
 </html>
 
 /// S-T-Y-L-E-C-S-S ///
@@ -401,6 +418,7 @@ img{
     border-radius: 105px;
     width: 500px;
     height: 600px;
+    transition: 0.5s transform;
 
 }
 
@@ -430,6 +448,69 @@ h14{
 font-size:medium;
 
 }
+
+img:hover{
+
+transform: scale(1.05);
+
+
+}
+
+h15{
+
+font-size:xx-large;
+font-style:oblique;
+
+}
+
+
+video{
+
+width: 300px;
+height: 500px;
+border: 3px solid #000;
+border-radius: 8px;
+
+}
+
+article{
+
+width: 1200px;
+background-color:mistyrose;
+color:lightcoral;
+
+
+}
+
+@media screen and (max-width=1000px) {
+
+article{
+
+color:fuchsia;
+width:100vw;
+padding: 20px;
+
+}
+
+h1{
+
+font-size: 250%;
+margin-bottom: 20px;
+border-bottom: 1px solid black;
+font-weight:400;
+
+}
+
+footer > p{
+
+width:100vw;
+padding-left:20px;
+
+}
+
+}
+
+
 
 -------------
 /// E-N-D ///

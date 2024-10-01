@@ -535,7 +535,7 @@ body{
     
 
     
-    transition: background-color 0.3s, color 0.3s;
+    transition: background-color 5.0s, color 5.0s;
   }
 
   /* Light mode */
@@ -561,7 +561,7 @@ body{
     color: black;
     border: none;
     border-radius: 5px;
-    transition: background-color 0.3s;
+    transition: background-color 0.28s;
   }
 
 
